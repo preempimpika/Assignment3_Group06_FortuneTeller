@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckListAssign3</string>
+    <string name="title"> Fortune Teller </string>
+    <string name="dialog">Shake your phone!</string>
+    <string name="nogyroscope">Your device not available GYROSCOPE</string>
+    <string name="noaccelerometer">Your device not available ACCELEROMETER</string>
+</resources>
